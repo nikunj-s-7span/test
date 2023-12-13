@@ -1,3 +1,3 @@
 # test
 
-## This is test website doc for [Alike](https://alike.io)
+## This is test website doc for (https://alike.io/)
